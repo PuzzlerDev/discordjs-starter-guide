@@ -18,4 +18,4 @@ En la carpeta `Lecciones` esta explicado paso por paso la creacion y configuraci
 ## Contenido de referencia
 
 - Documentacion de Discord.js: https://discord.js.org/
-- Discord Velopers Portal: https://discord.com/developers/docs/intro
+- Discord Devlopers Portal: https://discord.com/developers/docs/intro
