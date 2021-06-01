@@ -2,7 +2,7 @@
 
 ## Discord.js introduction
 
-** Discord.js ** is a node.js module that allows you to interact with the Discord API. It takes a much more object-oriented approach than most other JS Discord libraries, making the code significantly neater and easier to understand.
+**Discord.js** is a node.js module that allows you to interact with the Discord API. It takes a much more object-oriented approach than most other JS Discord libraries, making the code significantly neater and easier to understand.
 
 In the `Adonys Bot` folder there is an example of a Simple Bot.
 
